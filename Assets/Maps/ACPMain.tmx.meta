@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 06538c6e00ea49f47aecde70f8cf8467
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/ACPMain
+    100002: _MapPrfab/ACPMain/Floor01
+    100004: _MapPrfab/ACPMain/Floor02
+    100006: _MapPrfab/ACPMain/Escenario
+    100008: _MapPrfab/ACPMain/Muebles01
+    100010: _MapPrfab/ACPMain/Ceiling03
+    100012: _MapPrfab/ACPMain/ceiling3 muebles
+    100014: _MapPrfab/ACPMain/ceiling3 muebles (1)
+    100016: _MapPrfab/ACPMain/Ceiling01
+    100018: _MapPrfab/ACPMain/Ceiling02
+    100020: _MapPrfab/ACPMain/Ceil cosas escenario
+    100022: _MapPrfab/ACPMain/piso2
+    100024: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (13)
+    100026: _MapPrfab/ACPMain/Ceil Mubles01
+    100028: _MapPrfab/ACPMain/Ceil Muebles piso1
+    100030: _MapPrfab/ACPMain/ceil muebles piso2
+    100032: _MapPrfab/ACPMain/Ceil2 Muebles piso1
+    100034: _MapPrfab/ACPMain/Ceiling Muebles 2 piso2
+    100036: _MapPrfab/ACPMain/piso1
+    100038: _MapPrfab/ACPMain/piso3
+    100040: _MapPrfab/ACPMain/Ceil escenario
+    100074: _MapPrfab/ACPMain/Collider01
+    100076: _MapPrfab/ACPMain/Collider01/Collision_Default
+    100078: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon
+    100080: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (1)
+    100082: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (2)
+    100084: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (3)
+    100086: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (4)
+    100088: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (5)
+    100090: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (6)
+    100092: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (7)
+    100094: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (8)
+    100096: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (9)
+    100098: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (10)
+    100100: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (11)
+    100102: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (12)
+    400000: _MapPrfab/ACPMain/Transform
+    400002: _MapPrfab/ACPMain/Floor01/Transform
+    400004: _MapPrfab/ACPMain/Floor02/Transform
+    400006: _MapPrfab/ACPMain/Escenario/Transform
+    400008: _MapPrfab/ACPMain/Muebles01/Transform
+    400010: _MapPrfab/ACPMain/Ceiling03/Transform
+    400012: _MapPrfab/ACPMain/ceiling3 muebles/Transform
+    400014: _MapPrfab/ACPMain/ceiling3 muebles (1)/Transform
+    400016: _MapPrfab/ACPMain/Ceiling01/Transform
+    400018: _MapPrfab/ACPMain/Ceiling02/Transform
+    400020: _MapPrfab/ACPMain/Ceil cosas escenario/Transform
+    400022: _MapPrfab/ACPMain/piso2/Transform
+    400024: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (13)/Transform
+    400026: _MapPrfab/ACPMain/Ceil Mubles01/Transform
+    400028: _MapPrfab/ACPMain/Ceil Muebles piso1/Transform
+    400030: _MapPrfab/ACPMain/ceil muebles piso2/Transform
+    400032: _MapPrfab/ACPMain/Ceil2 Muebles piso1/Transform
+    400034: _MapPrfab/ACPMain/Ceiling Muebles 2 piso2/Transform
+    400036: _MapPrfab/ACPMain/piso1/Transform
+    400038: _MapPrfab/ACPMain/piso3/Transform
+    400040: _MapPrfab/ACPMain/Ceil escenario/Transform
+    400074: _MapPrfab/ACPMain/Collider01/Transform
+    400076: _MapPrfab/ACPMain/Collider01/Collision_Default/Transform
+    400078: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon/Transform
+    400080: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (1)/Transform
+    400082: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (2)/Transform
+    400084: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (3)/Transform
+    400086: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (4)/Transform
+    400088: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (5)/Transform
+    400090: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (6)/Transform
+    400092: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (7)/Transform
+    400094: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (8)/Transform
+    400096: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (9)/Transform
+    400098: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (10)/Transform
+    400100: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (11)/Transform
+    400102: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (12)/Transform
+    5000002: _MapPrfab/ACPMain/Collider01/Collision_Default/Rigidbody2D
+    6000000: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (13)/PolygonCollider2D
+    6000030: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon/PolygonCollider2D
+    6000032: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (1)/PolygonCollider2D
+    6000034: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (2)/PolygonCollider2D
+    6000036: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (3)/PolygonCollider2D
+    6000038: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (4)/PolygonCollider2D
+    6000040: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (5)/PolygonCollider2D
+    6000042: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (6)/PolygonCollider2D
+    6000044: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (7)/PolygonCollider2D
+    6000046: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (8)/PolygonCollider2D
+    6000048: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (9)/PolygonCollider2D
+    6000050: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (10)/PolygonCollider2D
+    6000052: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (11)/PolygonCollider2D
+    6000054: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (12)/PolygonCollider2D
+    6600002: _MapPrfab/ACPMain/Collider01/Collision_Default/CompositeCollider2D
+    11400000: _MapPrfab/ACPMain/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/ACPMain/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/ACPMain/Floor01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/ACPMain/Floor01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/ACPMain/Floor01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400010: _superAsset
+    11400012: _MapPrfab/ACPMain/Floor02/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400014: _MapPrfab/ACPMain/Floor02/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _MapPrfab/ACPMain/Floor02/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400018: _MapPrfab/ACPMain/Escenario/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/ACPMain/Escenario/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/ACPMain/Escenario/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400024: _MapPrfab/ACPMain/Muebles01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400026: _MapPrfab/ACPMain/Muebles01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400028: _MapPrfab/ACPMain/Muebles01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400030: _MapPrfab/ACPMain/Ceiling03/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400032: _MapPrfab/ACPMain/Ceiling03/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400034: _MapPrfab/ACPMain/Ceiling03/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400036: _MapPrfab/ACPMain/ceiling3 muebles/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400038: _MapPrfab/ACPMain/ceiling3 muebles/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400040: _MapPrfab/ACPMain/ceiling3 muebles/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400042: _MapPrfab/ACPMain/ceiling3 muebles (1)/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400044: _MapPrfab/ACPMain/ceiling3 muebles (1)/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400046: _MapPrfab/ACPMain/ceiling3 muebles (1)/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400048: _MapPrfab/ACPMain/Ceiling01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400050: _MapPrfab/ACPMain/Ceiling01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400052: _MapPrfab/ACPMain/Ceiling01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400054: _MapPrfab/ACPMain/Ceiling02/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400056: _MapPrfab/ACPMain/Ceiling02/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400058: _MapPrfab/ACPMain/Ceiling02/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400060: _MapPrfab/ACPMain/Ceil cosas escenario/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400062: _MapPrfab/ACPMain/Ceil cosas escenario/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400064: _MapPrfab/ACPMain/Ceil cosas escenario/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400066: _MapPrfab/ACPMain/piso2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400068: _MapPrfab/ACPMain/piso2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400070: _MapPrfab/ACPMain/piso2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400072: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (13)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400074: _MapPrfab/ACPMain/piso3/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400076: _MapPrfab/ACPMain/piso3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400078: _MapPrfab/ACPMain/Ceil Mubles01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400080: _MapPrfab/ACPMain/Ceil Mubles01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400082: _MapPrfab/ACPMain/Ceil Mubles01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400084: _MapPrfab/ACPMain/Ceil Muebles piso1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400086: _MapPrfab/ACPMain/Ceil Muebles piso1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400088: _MapPrfab/ACPMain/Ceil Muebles piso1/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400090: _MapPrfab/ACPMain/ceil muebles piso2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400092: _MapPrfab/ACPMain/ceil muebles piso2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400094: _MapPrfab/ACPMain/ceil muebles piso2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400096: _MapPrfab/ACPMain/Ceil2 Muebles piso1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400098: _MapPrfab/ACPMain/Ceil2 Muebles piso1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400100: _MapPrfab/ACPMain/Ceil2 Muebles piso1/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400102: _MapPrfab/ACPMain/Ceiling Muebles 2 piso2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400104: _MapPrfab/ACPMain/Ceiling Muebles 2 piso2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400106: _MapPrfab/ACPMain/Ceiling Muebles 2 piso2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400108: _MapPrfab/ACPMain/piso1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400110: _MapPrfab/ACPMain/piso1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400112: _MapPrfab/ACPMain/piso1/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400114: _MapPrfab/ACPMain/piso3/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400116: _MapPrfab/ACPMain/Ceil escenario/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400118: _MapPrfab/ACPMain/Ceil escenario/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400120: _MapPrfab/ACPMain/Ceil escenario/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400156: _MapPrfab/ACPMain/Collider01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400158: _MapPrfab/ACPMain/Collider01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400160: _MapPrfab/ACPMain/Collider01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400162: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400164: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400166: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400168: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (3)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400170: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (4)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400172: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (5)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400174: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (6)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400176: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (7)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400178: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (8)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400180: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (9)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400182: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (10)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400184: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (11)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400186: _MapPrfab/ACPMain/Collider01/Collision_Default/Polygon (12)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/ACPMain/Grid
+    3664157343022684176: _MapPrfab/ACPMain/Floor01/TilemapRenderer
+    3664157343022684178: _MapPrfab/ACPMain/Floor02/TilemapRenderer
+    3664157343022684180: _MapPrfab/ACPMain/Escenario/TilemapRenderer
+    3664157343022684182: _MapPrfab/ACPMain/Muebles01/TilemapRenderer
+    3664157343022684184: _MapPrfab/ACPMain/Ceiling03/TilemapRenderer
+    3664157343022684186: _MapPrfab/ACPMain/ceiling3 muebles/TilemapRenderer
+    3664157343022684188: _MapPrfab/ACPMain/ceiling3 muebles (1)/TilemapRenderer
+    3664157343022684190: _MapPrfab/ACPMain/Ceiling01/TilemapRenderer
+    3664157343022684192: _MapPrfab/ACPMain/Ceiling02/TilemapRenderer
+    3664157343022684194: _MapPrfab/ACPMain/Ceil cosas escenario/TilemapRenderer
+    3664157343022684196: _MapPrfab/ACPMain/piso2/TilemapRenderer
+    3664157343022684200: _MapPrfab/ACPMain/Ceil Mubles01/TilemapRenderer
+    3664157343022684202: _MapPrfab/ACPMain/Ceil Muebles piso1/TilemapRenderer
+    3664157343022684204: _MapPrfab/ACPMain/ceil muebles piso2/TilemapRenderer
+    3664157343022684206: _MapPrfab/ACPMain/Ceil2 Muebles piso1/TilemapRenderer
+    3664157343022684208: _MapPrfab/ACPMain/Ceiling Muebles 2 piso2/TilemapRenderer
+    3664157343022684210: _MapPrfab/ACPMain/piso1/TilemapRenderer
+    3664157343022684212: _MapPrfab/ACPMain/Collider01/TilemapRenderer
+    3664157343022684216: _MapPrfab/ACPMain/piso3/TilemapRenderer
+    3664157343022684218: _MapPrfab/ACPMain/Ceil escenario/TilemapRenderer
+    8195094279510102542: _MapPrfab/ACPMain/Floor01/Tilemap
+    8195094279510102544: _MapPrfab/ACPMain/Floor02/Tilemap
+    8195094279510102546: _MapPrfab/ACPMain/Escenario/Tilemap
+    8195094279510102548: _MapPrfab/ACPMain/Muebles01/Tilemap
+    8195094279510102550: _MapPrfab/ACPMain/Ceiling03/Tilemap
+    8195094279510102552: _MapPrfab/ACPMain/ceiling3 muebles/Tilemap
+    8195094279510102554: _MapPrfab/ACPMain/ceiling3 muebles (1)/Tilemap
+    8195094279510102556: _MapPrfab/ACPMain/Ceiling01/Tilemap
+    8195094279510102558: _MapPrfab/ACPMain/Ceiling02/Tilemap
+    8195094279510102560: _MapPrfab/ACPMain/Ceil cosas escenario/Tilemap
+    8195094279510102562: _MapPrfab/ACPMain/piso2/Tilemap
+    8195094279510102566: _MapPrfab/ACPMain/Ceil Mubles01/Tilemap
+    8195094279510102568: _MapPrfab/ACPMain/Ceil Muebles piso1/Tilemap
+    8195094279510102570: _MapPrfab/ACPMain/ceil muebles piso2/Tilemap
+    8195094279510102572: _MapPrfab/ACPMain/Ceil2 Muebles piso1/Tilemap
+    8195094279510102574: _MapPrfab/ACPMain/Ceiling Muebles 2 piso2/Tilemap
+    8195094279510102576: _MapPrfab/ACPMain/piso1/Tilemap
+    8195094279510102578: _MapPrfab/ACPMain/Collider01/Tilemap
+    8195094279510102582: _MapPrfab/ACPMain/piso3/Tilemap
+    8195094279510102584: _MapPrfab/ACPMain/Ceil escenario/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

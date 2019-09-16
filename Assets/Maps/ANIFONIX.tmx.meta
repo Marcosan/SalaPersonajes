@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: c6b1a2367179c2045b5203b3728acbb6
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/ANIFONIX
+    100002: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (16)
+    100004: _MapPrfab/ANIFONIX/c.glass
+    100006: _MapPrfab/ANIFONIX/collider
+    100008: _MapPrfab/ANIFONIX/collider/Collision_Default
+    100010: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon
+    100012: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (1)
+    100014: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (2)
+    100016: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (3)
+    100018: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (4)
+    100020: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (5)
+    100022: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (6)
+    100024: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (7)
+    100026: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (8)
+    100028: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (9)
+    100030: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (10)
+    100032: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (11)
+    100034: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (12)
+    100036: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (13)
+    100038: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (14)
+    100040: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (15)
+    100042: _MapPrfab/ANIFONIX/componentes musicales
+    100044: _MapPrfab/ANIFONIX/desk
+    100046: _MapPrfab/ANIFONIX/desk2
+    100048: _MapPrfab/ANIFONIX/floor
+    100050: _MapPrfab/ANIFONIX/floor2
+    100052: _MapPrfab/ANIFONIX/glass
+    100054: _MapPrfab/ANIFONIX/instrumentos musicales
+    100056: _MapPrfab/ANIFONIX/luz
+    100058: _MapPrfab/ANIFONIX/sombra pared
+    100060: _MapPrfab/ANIFONIX/teclado
+    100062: _MapPrfab/ANIFONIX/teclado musical
+    100064: _MapPrfab/ANIFONIX/wall
+    400000: _MapPrfab/ANIFONIX/Transform
+    400002: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (16)/Transform
+    400004: _MapPrfab/ANIFONIX/c.glass/Transform
+    400006: _MapPrfab/ANIFONIX/collider/Transform
+    400008: _MapPrfab/ANIFONIX/collider/Collision_Default/Transform
+    400010: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon/Transform
+    400012: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (1)/Transform
+    400014: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (2)/Transform
+    400016: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (3)/Transform
+    400018: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (4)/Transform
+    400020: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (5)/Transform
+    400022: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (6)/Transform
+    400024: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (7)/Transform
+    400026: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (8)/Transform
+    400028: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (9)/Transform
+    400030: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (10)/Transform
+    400032: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (11)/Transform
+    400034: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (12)/Transform
+    400036: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (13)/Transform
+    400038: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (14)/Transform
+    400040: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (15)/Transform
+    400042: _MapPrfab/ANIFONIX/componentes musicales/Transform
+    400044: _MapPrfab/ANIFONIX/desk/Transform
+    400046: _MapPrfab/ANIFONIX/desk2/Transform
+    400048: _MapPrfab/ANIFONIX/floor/Transform
+    400050: _MapPrfab/ANIFONIX/floor2/Transform
+    400052: _MapPrfab/ANIFONIX/glass/Transform
+    400054: _MapPrfab/ANIFONIX/instrumentos musicales/Transform
+    400056: _MapPrfab/ANIFONIX/luz/Transform
+    400058: _MapPrfab/ANIFONIX/sombra pared/Transform
+    400060: _MapPrfab/ANIFONIX/teclado/Transform
+    400062: _MapPrfab/ANIFONIX/teclado musical/Transform
+    400064: _MapPrfab/ANIFONIX/wall/Transform
+    5000000: _MapPrfab/ANIFONIX/collider/Collision_Default/Rigidbody2D
+    6000000: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon/PolygonCollider2D
+    6000002: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (1)/PolygonCollider2D
+    6000004: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (2)/PolygonCollider2D
+    6000006: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (3)/PolygonCollider2D
+    6000008: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (4)/PolygonCollider2D
+    6000010: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (5)/PolygonCollider2D
+    6000012: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (6)/PolygonCollider2D
+    6000014: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (7)/PolygonCollider2D
+    6000016: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (8)/PolygonCollider2D
+    6000018: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (9)/PolygonCollider2D
+    6000020: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (10)/PolygonCollider2D
+    6000022: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (11)/PolygonCollider2D
+    6000024: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (12)/PolygonCollider2D
+    6000026: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (13)/PolygonCollider2D
+    6000028: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (14)/PolygonCollider2D
+    6000030: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (15)/PolygonCollider2D
+    6000032: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (16)/PolygonCollider2D
+    6600000: _MapPrfab/ANIFONIX/collider/Collision_Default/CompositeCollider2D
+    11400000: _MapPrfab/ANIFONIX/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/ANIFONIX/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (16)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400010: _superAsset
+    11400012: _MapPrfab/ANIFONIX/c.glass/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400014: _MapPrfab/ANIFONIX/c.glass/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _MapPrfab/ANIFONIX/c.glass/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400018: _MapPrfab/ANIFONIX/collider/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/ANIFONIX/collider/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/ANIFONIX/collider/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400024: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400026: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400028: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400030: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (3)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400032: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (4)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400034: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (5)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400036: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (6)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400038: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (7)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400040: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (8)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400042: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (9)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400044: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (10)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400046: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (11)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400048: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (12)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400050: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (13)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400052: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (14)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400054: _MapPrfab/ANIFONIX/collider/Collision_Default/Polygon (15)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400056: _MapPrfab/ANIFONIX/componentes musicales/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400058: _MapPrfab/ANIFONIX/componentes musicales/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400060: _MapPrfab/ANIFONIX/componentes musicales/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400062: _MapPrfab/ANIFONIX/desk/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400064: _MapPrfab/ANIFONIX/desk/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400066: _MapPrfab/ANIFONIX/desk/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400068: _MapPrfab/ANIFONIX/desk2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400070: _MapPrfab/ANIFONIX/desk2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400072: _MapPrfab/ANIFONIX/desk2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400074: _MapPrfab/ANIFONIX/floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400076: _MapPrfab/ANIFONIX/floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400078: _MapPrfab/ANIFONIX/floor/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400080: _MapPrfab/ANIFONIX/floor2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400082: _MapPrfab/ANIFONIX/floor2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400084: _MapPrfab/ANIFONIX/floor2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400086: _MapPrfab/ANIFONIX/glass/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400088: _MapPrfab/ANIFONIX/glass/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400090: _MapPrfab/ANIFONIX/glass/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400092: _MapPrfab/ANIFONIX/instrumentos musicales/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400094: _MapPrfab/ANIFONIX/instrumentos musicales/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400096: _MapPrfab/ANIFONIX/instrumentos musicales/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400098: _MapPrfab/ANIFONIX/luz/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400100: _MapPrfab/ANIFONIX/luz/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400102: _MapPrfab/ANIFONIX/luz/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400104: _MapPrfab/ANIFONIX/sombra pared/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400106: _MapPrfab/ANIFONIX/sombra pared/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400108: _MapPrfab/ANIFONIX/sombra pared/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400110: _MapPrfab/ANIFONIX/teclado/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400112: _MapPrfab/ANIFONIX/teclado/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400114: _MapPrfab/ANIFONIX/teclado/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400116: _MapPrfab/ANIFONIX/teclado musical/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400118: _MapPrfab/ANIFONIX/teclado musical/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400120: _MapPrfab/ANIFONIX/teclado musical/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400122: _MapPrfab/ANIFONIX/wall/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400124: _MapPrfab/ANIFONIX/wall/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400126: _MapPrfab/ANIFONIX/wall/MonoBehaviour-SuperTiled2Unity.TilemapData
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/ANIFONIX/Grid
+    3664157343022684178: _MapPrfab/ANIFONIX/c.glass/TilemapRenderer
+    3664157343022684180: _MapPrfab/ANIFONIX/collider/TilemapRenderer
+    3664157343022684182: _MapPrfab/ANIFONIX/componentes musicales/TilemapRenderer
+    3664157343022684184: _MapPrfab/ANIFONIX/desk/TilemapRenderer
+    3664157343022684186: _MapPrfab/ANIFONIX/desk2/TilemapRenderer
+    3664157343022684188: _MapPrfab/ANIFONIX/floor/TilemapRenderer
+    3664157343022684190: _MapPrfab/ANIFONIX/floor2/TilemapRenderer
+    3664157343022684192: _MapPrfab/ANIFONIX/glass/TilemapRenderer
+    3664157343022684194: _MapPrfab/ANIFONIX/instrumentos musicales/TilemapRenderer
+    3664157343022684196: _MapPrfab/ANIFONIX/luz/TilemapRenderer
+    3664157343022684198: _MapPrfab/ANIFONIX/sombra pared/TilemapRenderer
+    3664157343022684200: _MapPrfab/ANIFONIX/teclado/TilemapRenderer
+    3664157343022684202: _MapPrfab/ANIFONIX/teclado musical/TilemapRenderer
+    3664157343022684204: _MapPrfab/ANIFONIX/wall/TilemapRenderer
+    8195094279510102544: _MapPrfab/ANIFONIX/c.glass/Tilemap
+    8195094279510102546: _MapPrfab/ANIFONIX/collider/Tilemap
+    8195094279510102548: _MapPrfab/ANIFONIX/componentes musicales/Tilemap
+    8195094279510102550: _MapPrfab/ANIFONIX/desk/Tilemap
+    8195094279510102552: _MapPrfab/ANIFONIX/desk2/Tilemap
+    8195094279510102554: _MapPrfab/ANIFONIX/floor/Tilemap
+    8195094279510102556: _MapPrfab/ANIFONIX/floor2/Tilemap
+    8195094279510102558: _MapPrfab/ANIFONIX/glass/Tilemap
+    8195094279510102560: _MapPrfab/ANIFONIX/instrumentos musicales/Tilemap
+    8195094279510102562: _MapPrfab/ANIFONIX/luz/Tilemap
+    8195094279510102564: _MapPrfab/ANIFONIX/sombra pared/Tilemap
+    8195094279510102566: _MapPrfab/ANIFONIX/teclado/Tilemap
+    8195094279510102568: _MapPrfab/ANIFONIX/teclado musical/Tilemap
+    8195094279510102570: _MapPrfab/ANIFONIX/wall/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

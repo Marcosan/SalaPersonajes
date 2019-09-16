@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 1ea84e09470e761438bcd2ed7a548042
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/ABOUTUS
+    100002: _MapPrfab/ABOUTUS/cearbolcopa
+    100004: _MapPrfab/ABOUTUS/cearboltallo
+    100006: _MapPrfab/ABOUTUS/collider
+    100008: _MapPrfab/ABOUTUS/collider/Collision_Default
+    100010: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon
+    100012: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (1)
+    100014: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (2)
+    100016: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (3)
+    100018: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (4)
+    100020: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (5)
+    100022: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (6)
+    100024: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (7)
+    100026: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (8)
+    100028: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (9)
+    100030: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (10)
+    100032: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (11)
+    100034: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (12)
+    100036: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (13)
+    100038: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (14)
+    100040: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (15)
+    100042: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (16)
+    100044: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (17)
+    100046: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (18)
+    100048: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (19)
+    100050: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (20)
+    100052: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (21)
+    100054: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (22)
+    100056: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (23)
+    100058: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (24)
+    100060: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (25)
+    100062: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (26)
+    100064: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (27)
+    100066: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (28)
+    100068: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (29)
+    100070: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (30)
+    100072: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (31)
+    100074: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (32)
+    100076: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (33)
+    100078: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (34)
+    100080: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (35)
+    100082: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (36)
+    100084: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (37)
+    100086: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (38)
+    100088: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (39)
+    100090: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (40)
+    100092: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (41)
+    100094: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (42)
+    100096: _MapPrfab/ABOUTUS/cubepisometa
+    100098: _MapPrfab/ABOUTUS/escaleras
+    100100: _MapPrfab/ABOUTUS/fondo
+    100102: _MapPrfab/ABOUTUS/piso2
+    100104: _MapPrfab/ABOUTUS/piso3
+    100106: _MapPrfab/ABOUTUS/pisos
+    100108: _MapPrfab/ABOUTUS/wall1
+    100110: _MapPrfab/ABOUTUS/wall2
+    100112: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (43)
+    400000: _MapPrfab/ABOUTUS/Transform
+    400002: _MapPrfab/ABOUTUS/cearbolcopa/Transform
+    400004: _MapPrfab/ABOUTUS/cearboltallo/Transform
+    400006: _MapPrfab/ABOUTUS/collider/Transform
+    400008: _MapPrfab/ABOUTUS/collider/Collision_Default/Transform
+    400010: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon/Transform
+    400012: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (1)/Transform
+    400014: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (2)/Transform
+    400016: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (3)/Transform
+    400018: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (4)/Transform
+    400020: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (5)/Transform
+    400022: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (6)/Transform
+    400024: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (7)/Transform
+    400026: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (8)/Transform
+    400028: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (9)/Transform
+    400030: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (10)/Transform
+    400032: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (11)/Transform
+    400034: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (12)/Transform
+    400036: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (13)/Transform
+    400038: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (14)/Transform
+    400040: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (15)/Transform
+    400042: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (16)/Transform
+    400044: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (17)/Transform
+    400046: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (18)/Transform
+    400048: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (19)/Transform
+    400050: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (20)/Transform
+    400052: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (21)/Transform
+    400054: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (22)/Transform
+    400056: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (23)/Transform
+    400058: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (24)/Transform
+    400060: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (25)/Transform
+    400062: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (26)/Transform
+    400064: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (27)/Transform
+    400066: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (28)/Transform
+    400068: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (29)/Transform
+    400070: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (30)/Transform
+    400072: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (31)/Transform
+    400074: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (32)/Transform
+    400076: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (33)/Transform
+    400078: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (34)/Transform
+    400080: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (35)/Transform
+    400082: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (36)/Transform
+    400084: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (37)/Transform
+    400086: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (38)/Transform
+    400088: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (39)/Transform
+    400090: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (40)/Transform
+    400092: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (41)/Transform
+    400094: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (42)/Transform
+    400096: _MapPrfab/ABOUTUS/cubepisometa/Transform
+    400098: _MapPrfab/ABOUTUS/escaleras/Transform
+    400100: _MapPrfab/ABOUTUS/fondo/Transform
+    400102: _MapPrfab/ABOUTUS/piso2/Transform
+    400104: _MapPrfab/ABOUTUS/piso3/Transform
+    400106: _MapPrfab/ABOUTUS/pisos/Transform
+    400108: _MapPrfab/ABOUTUS/wall1/Transform
+    400110: _MapPrfab/ABOUTUS/wall2/Transform
+    400112: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (43)/Transform
+    5000000: _MapPrfab/ABOUTUS/collider/Collision_Default/Rigidbody2D
+    6000000: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon/PolygonCollider2D
+    6000002: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (1)/PolygonCollider2D
+    6000004: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (2)/PolygonCollider2D
+    6000006: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (3)/PolygonCollider2D
+    6000008: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (4)/PolygonCollider2D
+    6000010: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (5)/PolygonCollider2D
+    6000012: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (6)/PolygonCollider2D
+    6000014: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (7)/PolygonCollider2D
+    6000016: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (8)/PolygonCollider2D
+    6000018: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (9)/PolygonCollider2D
+    6000020: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (10)/PolygonCollider2D
+    6000022: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (11)/PolygonCollider2D
+    6000024: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (12)/PolygonCollider2D
+    6000026: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (13)/PolygonCollider2D
+    6000028: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (14)/PolygonCollider2D
+    6000030: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (15)/PolygonCollider2D
+    6000032: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (16)/PolygonCollider2D
+    6000034: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (17)/PolygonCollider2D
+    6000036: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (18)/PolygonCollider2D
+    6000038: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (19)/PolygonCollider2D
+    6000040: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (20)/PolygonCollider2D
+    6000042: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (21)/PolygonCollider2D
+    6000044: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (22)/PolygonCollider2D
+    6000046: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (23)/PolygonCollider2D
+    6000048: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (24)/PolygonCollider2D
+    6000050: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (25)/PolygonCollider2D
+    6000052: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (26)/PolygonCollider2D
+    6000054: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (27)/PolygonCollider2D
+    6000056: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (28)/PolygonCollider2D
+    6000058: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (29)/PolygonCollider2D
+    6000060: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (30)/PolygonCollider2D
+    6000062: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (31)/PolygonCollider2D
+    6000064: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (32)/PolygonCollider2D
+    6000066: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (33)/PolygonCollider2D
+    6000068: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (34)/PolygonCollider2D
+    6000070: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (35)/PolygonCollider2D
+    6000072: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (36)/PolygonCollider2D
+    6000074: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (37)/PolygonCollider2D
+    6000076: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (38)/PolygonCollider2D
+    6000078: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (39)/PolygonCollider2D
+    6000080: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (40)/PolygonCollider2D
+    6000082: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (41)/PolygonCollider2D
+    6000084: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (42)/PolygonCollider2D
+    6000086: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (43)/PolygonCollider2D
+    6600000: _MapPrfab/ABOUTUS/collider/Collision_Default/CompositeCollider2D
+    11400000: _MapPrfab/ABOUTUS/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/ABOUTUS/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/ABOUTUS/cearbolcopa/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/ABOUTUS/cearbolcopa/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/ABOUTUS/cearbolcopa/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400010: _MapPrfab/ABOUTUS/cearboltallo/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400012: _MapPrfab/ABOUTUS/cearboltallo/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400014: _MapPrfab/ABOUTUS/cearboltallo/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400016: _MapPrfab/ABOUTUS/collider/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400018: _MapPrfab/ABOUTUS/collider/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400020: _MapPrfab/ABOUTUS/collider/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400022: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400024: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400026: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400028: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (3)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400030: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (4)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400032: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (5)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400034: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (6)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400036: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (7)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400038: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (8)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400040: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (9)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400042: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (10)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400044: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (11)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400046: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (12)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400048: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (13)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400050: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (14)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400052: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (15)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400054: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (16)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400056: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (17)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400058: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (18)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400060: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (19)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400062: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (20)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400064: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (21)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400066: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (22)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400068: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (23)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400070: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (24)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400072: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (25)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400074: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (26)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400076: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (27)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400078: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (28)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400080: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (29)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400082: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (30)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400084: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (31)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400086: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (32)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400088: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (33)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400090: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (34)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400092: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (35)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400094: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (36)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400096: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (37)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400098: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (38)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400100: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (39)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400102: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (40)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400104: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (41)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400106: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (42)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400108: _MapPrfab/ABOUTUS/cubepisometa/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400110: _MapPrfab/ABOUTUS/cubepisometa/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400112: _MapPrfab/ABOUTUS/cubepisometa/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400114: _MapPrfab/ABOUTUS/escaleras/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400116: _MapPrfab/ABOUTUS/escaleras/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400118: _MapPrfab/ABOUTUS/escaleras/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400120: _MapPrfab/ABOUTUS/fondo/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400122: _MapPrfab/ABOUTUS/fondo/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400124: _MapPrfab/ABOUTUS/fondo/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400126: _MapPrfab/ABOUTUS/piso2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400128: _MapPrfab/ABOUTUS/piso2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400130: _MapPrfab/ABOUTUS/piso2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400132: _MapPrfab/ABOUTUS/piso3/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400134: _MapPrfab/ABOUTUS/piso3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400136: _MapPrfab/ABOUTUS/piso3/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400138: _MapPrfab/ABOUTUS/pisos/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400140: _MapPrfab/ABOUTUS/pisos/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400142: _MapPrfab/ABOUTUS/pisos/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400144: _MapPrfab/ABOUTUS/wall1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400146: _MapPrfab/ABOUTUS/wall1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400148: _MapPrfab/ABOUTUS/wall1/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400150: _MapPrfab/ABOUTUS/wall2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400152: _MapPrfab/ABOUTUS/wall2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400154: _MapPrfab/ABOUTUS/wall2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400156: _superAsset
+    11400158: _MapPrfab/ABOUTUS/collider/Collision_Default/Polygon (43)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/ABOUTUS/Grid
+    3664157343022684176: _MapPrfab/ABOUTUS/cearbolcopa/TilemapRenderer
+    3664157343022684178: _MapPrfab/ABOUTUS/cearboltallo/TilemapRenderer
+    3664157343022684180: _MapPrfab/ABOUTUS/collider/TilemapRenderer
+    3664157343022684182: _MapPrfab/ABOUTUS/cubepisometa/TilemapRenderer
+    3664157343022684184: _MapPrfab/ABOUTUS/escaleras/TilemapRenderer
+    3664157343022684186: _MapPrfab/ABOUTUS/fondo/TilemapRenderer
+    3664157343022684188: _MapPrfab/ABOUTUS/piso2/TilemapRenderer
+    3664157343022684190: _MapPrfab/ABOUTUS/piso3/TilemapRenderer
+    3664157343022684192: _MapPrfab/ABOUTUS/pisos/TilemapRenderer
+    3664157343022684194: _MapPrfab/ABOUTUS/wall1/TilemapRenderer
+    3664157343022684196: _MapPrfab/ABOUTUS/wall2/TilemapRenderer
+    8195094279510102542: _MapPrfab/ABOUTUS/cearbolcopa/Tilemap
+    8195094279510102544: _MapPrfab/ABOUTUS/cearboltallo/Tilemap
+    8195094279510102546: _MapPrfab/ABOUTUS/collider/Tilemap
+    8195094279510102548: _MapPrfab/ABOUTUS/cubepisometa/Tilemap
+    8195094279510102550: _MapPrfab/ABOUTUS/escaleras/Tilemap
+    8195094279510102552: _MapPrfab/ABOUTUS/fondo/Tilemap
+    8195094279510102554: _MapPrfab/ABOUTUS/piso2/Tilemap
+    8195094279510102556: _MapPrfab/ABOUTUS/piso3/Tilemap
+    8195094279510102558: _MapPrfab/ABOUTUS/pisos/Tilemap
+    8195094279510102560: _MapPrfab/ABOUTUS/wall1/Tilemap
+    8195094279510102562: _MapPrfab/ABOUTUS/wall2/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - Errors detected in tileset 'tsx/zelda.tsx'. Check the tileset inspector for more
+    details. Your map may be broken until these are fixed.
+  - Could not find tile 14598. Make sure the tilesets were successfully imported.
+  - Could not find tile 14599. Make sure the tilesets were successfully imported.
+  - Could not find tile 13081. Make sure the tilesets were successfully imported.
+  - Could not find tile 13082. Make sure the tilesets were successfully imported.
+  - Could not find tile 13161. Make sure the tilesets were successfully imported.
+  - Could not find tile 13162. Make sure the tilesets were successfully imported.
+  - Could not find tile 13162. Make sure the tilesets were successfully imported.
+  - Could not find tile 13721. Make sure the tilesets were successfully imported.
+  - Could not find tile 13722. Make sure the tilesets were successfully imported.
+  - Could not find tile 14517. Make sure the tilesets were successfully imported.
+  - Could not find tile 14518. Make sure the tilesets were successfully imported.
+  - Could not find tile 14519. Make sure the tilesets were successfully imported.
+  - Could not find tile 14520. Make sure the tilesets were successfully imported.
+  - Could not find tile 14524. Make sure the tilesets were successfully imported.
+  - Could not find tile 14597. Make sure the tilesets were successfully imported.
+  - Could not find tile 14604. Make sure the tilesets were successfully imported.
+  - Could not find tile 14677. Make sure the tilesets were successfully imported.
+  - Could not find tile 13483. Make sure the tilesets were successfully imported.
+  - Could not find tile 13484. Make sure the tilesets were successfully imported.
+  - Could not find tile 13641. Make sure the tilesets were successfully imported.
+  - Could not find tile 13642. Make sure the tilesets were successfully imported.
+  - Could not find tile 14684. Make sure the tilesets were successfully imported.
+  - Could not find tile 14837. Make sure the tilesets were successfully imported.
+  - Could not find tile 14839. Make sure the tilesets were successfully imported.
+  - Could not find tile 14838. Make sure the tilesets were successfully imported.
+  - Could not find tile 14840. Make sure the tilesets were successfully imported.
+  - Could not find tile 14841. Make sure the tilesets were successfully imported.
+  - Could not find tile 14842. Make sure the tilesets were successfully imported.
+  - Could not find tile 14843. Make sure the tilesets were successfully imported.
+  - Could not find tile 14844. Make sure the tilesets were successfully imported.
+  - Could not find tile 14917. Make sure the tilesets were successfully imported.
+  - Could not find tile 14918. Make sure the tilesets were successfully imported.
+  - Could not find tile 14919. Make sure the tilesets were successfully imported.
+  - Could not find tile 14921. Make sure the tilesets were successfully imported.
+  - Could not find tile 14922. Make sure the tilesets were successfully imported.
+  - Could not find tile 14923. Make sure the tilesets were successfully imported.
+  - Could not find tile 14924. Make sure the tilesets were successfully imported.
+  - Could not find tile 15017. Make sure the tilesets were successfully imported.
+  - Could not find tile 15018. Make sure the tilesets were successfully imported.
+  - Could not find tile 15019. Make sure the tilesets were successfully imported.
+  - Could not find tile 15020. Make sure the tilesets were successfully imported.
+  - Could not find tile 15097. Make sure the tilesets were successfully imported.
+  - Could not find tile 15098. Make sure the tilesets were successfully imported.
+  - Could not find tile 15099. Make sure the tilesets were successfully imported.
+  - Could not find tile 15100. Make sure the tilesets were successfully imported.
+  - Could not find tile 15177. Make sure the tilesets were successfully imported.
+  - Could not find tile 15178. Make sure the tilesets were successfully imported.
+  - Could not find tile 15179. Make sure the tilesets were successfully imported.
+  - Could not find tile 15180. Make sure the tilesets were successfully imported.
+  - Could not find tile 15257. Make sure the tilesets were successfully imported.
+  - Could not find tile 15329. Make sure the tilesets were successfully imported.
+  - Could not find tile 15330. Make sure the tilesets were successfully imported.
+  - Could not find tile 15260. Make sure the tilesets were successfully imported.
+  - Could not find tile 15417. Make sure the tilesets were successfully imported.
+  - Could not find tile 15409. Make sure the tilesets were successfully imported.
+  - Could not find tile 15410. Make sure the tilesets were successfully imported.
+  - Could not find tile 15420. Make sure the tilesets were successfully imported.
+  - Could not find tile 14597. Make sure the tilesets were successfully imported.
+  - Could not find tile 14837. Make sure the tilesets were successfully imported.
+  - Could not find tile 14838. Make sure the tilesets were successfully imported.
+  - Could not find tile 14839. Make sure the tilesets were successfully imported.
+  - Could not find tile 14917. Make sure the tilesets were successfully imported.
+  - Could not find tile 14919. Make sure the tilesets were successfully imported.
+  - Could not find tile 13403. Make sure the tilesets were successfully imported.
+  - Could not find tile 13404. Make sure the tilesets were successfully imported.
+  - Could not find tile 13561. Make sure the tilesets were successfully imported.
+  - Could not find tile 13562. Make sure the tilesets were successfully imported.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

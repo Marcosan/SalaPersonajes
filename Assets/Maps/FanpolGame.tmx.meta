@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: 5823bc0df3f9bbd4a830b79724ed4964
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/FanpolGame
+    100004: _MapPrfab/FanpolGame/Agua01
+    100008: _MapPrfab/FanpolGame/Camino
+    100010: _MapPrfab/FanpolGame/Ceiling01
+    100012: _MapPrfab/FanpolGame/Colision01
+    100016: _MapPrfab/FanpolGame/Piso01
+    100018: _MapPrfab/FanpolGame/Piso02
+    100020: _MapPrfab/FanpolGame/Piso03
+    100022: _MapPrfab/FanpolGame/Wall01
+    400000: _MapPrfab/FanpolGame/Transform
+    400004: _MapPrfab/FanpolGame/Agua01/Transform
+    400008: _MapPrfab/FanpolGame/Camino/Transform
+    400010: _MapPrfab/FanpolGame/Ceiling01/Transform
+    400012: _MapPrfab/FanpolGame/Colision01/Transform
+    400016: _MapPrfab/FanpolGame/Piso01/Transform
+    400018: _MapPrfab/FanpolGame/Piso02/Transform
+    400020: _MapPrfab/FanpolGame/Piso03/Transform
+    400022: _MapPrfab/FanpolGame/Wall01/Transform
+    11400000: _MapPrfab/FanpolGame/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/FanpolGame/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400010: _MapPrfab/FanpolGame/Agua01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400012: _MapPrfab/FanpolGame/Agua01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400014: _MapPrfab/FanpolGame/Agua01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400022: _MapPrfab/FanpolGame/Camino/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400024: _MapPrfab/FanpolGame/Camino/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400026: _MapPrfab/FanpolGame/Camino/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400028: _MapPrfab/FanpolGame/Ceiling01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400030: _MapPrfab/FanpolGame/Ceiling01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400032: _MapPrfab/FanpolGame/Ceiling01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400034: _MapPrfab/FanpolGame/Colision01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400036: _MapPrfab/FanpolGame/Colision01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400038: _MapPrfab/FanpolGame/Colision01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400046: _MapPrfab/FanpolGame/Piso01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400048: _MapPrfab/FanpolGame/Piso01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400050: _MapPrfab/FanpolGame/Piso01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400052: _MapPrfab/FanpolGame/Piso02/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400054: _MapPrfab/FanpolGame/Piso02/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400056: _MapPrfab/FanpolGame/Piso02/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400058: _MapPrfab/FanpolGame/Piso03/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400060: _MapPrfab/FanpolGame/Piso03/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400062: _MapPrfab/FanpolGame/Piso03/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400064: _MapPrfab/FanpolGame/Wall01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400066: _MapPrfab/FanpolGame/Wall01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400068: _MapPrfab/FanpolGame/Wall01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400076: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/FanpolGame/Grid
+    3664157343022684178: _MapPrfab/FanpolGame/Agua01/TilemapRenderer
+    3664157343022684182: _MapPrfab/FanpolGame/Camino/TilemapRenderer
+    3664157343022684184: _MapPrfab/FanpolGame/Ceiling01/TilemapRenderer
+    3664157343022684186: _MapPrfab/FanpolGame/Colision01/TilemapRenderer
+    3664157343022684190: _MapPrfab/FanpolGame/Piso01/TilemapRenderer
+    3664157343022684192: _MapPrfab/FanpolGame/Piso02/TilemapRenderer
+    3664157343022684194: _MapPrfab/FanpolGame/Piso03/TilemapRenderer
+    3664157343022684196: _MapPrfab/FanpolGame/Wall01/TilemapRenderer
+    8195094279510102544: _MapPrfab/FanpolGame/Agua01/Tilemap
+    8195094279510102548: _MapPrfab/FanpolGame/Camino/Tilemap
+    8195094279510102550: _MapPrfab/FanpolGame/Ceiling01/Tilemap
+    8195094279510102552: _MapPrfab/FanpolGame/Colision01/Tilemap
+    8195094279510102556: _MapPrfab/FanpolGame/Piso01/Tilemap
+    8195094279510102558: _MapPrfab/FanpolGame/Piso02/Tilemap
+    8195094279510102560: _MapPrfab/FanpolGame/Piso03/Tilemap
+    8195094279510102562: _MapPrfab/FanpolGame/Wall01/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
