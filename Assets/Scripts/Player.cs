@@ -149,8 +149,8 @@ public class Player : MonoBehaviour{
                 interacting = false;
                 actionCollider.enabled = false;
             }
-            //Movements();
-            MoveMentsJoyStick();
+            Movements();
+            //MoveMentsJoyStick();
 
             Animations(mov);
 
