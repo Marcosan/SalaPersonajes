@@ -4,20 +4,20 @@ TextureImporter:
   fileIDToRecycleName:
     21300000: Character1_0
     21300002: Character1_1
-    21300004: Character1_2
-    21300006: Character1_3
-    21300008: Character1_4
-    21300010: Character1_5
-    21300012: Character1_6
-    21300014: Character1_7
-    21300016: Character1_8
-    21300018: Character1_9
-    21300020: Character1_10
-    21300022: Character1_11
-    21300024: Character1_12
-    21300026: Character1_13
-    21300028: Character1_14
-    21300030: Character1_15
+    21300004: Nicole_2
+    21300006: Nicole_3
+    21300008: Nicole_4
+    21300010: Nicole_5
+    21300012: Nicole_6
+    21300014: Nicole_7
+    21300016: Nicole_8
+    21300018: Nicole_9
+    21300020: Nicole_10
+    21300022: Nicole_11
+    21300024: Nicole_12
+    21300026: Nicole_13
+    21300028: Nicole_14
+    21300030: Nicole_15
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -162,7 +162,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_2
+      name: Nicole_2
       rect:
         serializedVersion: 2
         x: 96
@@ -182,7 +182,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_3
+      name: Nicole_3
       rect:
         serializedVersion: 2
         x: 134
@@ -202,7 +202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_4
+      name: Nicole_4
       rect:
         serializedVersion: 2
         x: 3
@@ -222,7 +222,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_5
+      name: Nicole_5
       rect:
         serializedVersion: 2
         x: 51
@@ -242,7 +242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_6
+      name: Nicole_6
       rect:
         serializedVersion: 2
         x: 99
@@ -262,7 +262,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_7
+      name: Nicole_7
       rect:
         serializedVersion: 2
         x: 137
@@ -282,7 +282,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_8
+      name: Nicole_8
       rect:
         serializedVersion: 2
         x: 0
@@ -302,7 +302,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_9
+      name: Nicole_9
       rect:
         serializedVersion: 2
         x: 48
@@ -322,7 +322,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_10
+      name: Nicole_10
       rect:
         serializedVersion: 2
         x: 96
@@ -342,7 +342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_11
+      name: Nicole_11
       rect:
         serializedVersion: 2
         x: 134
@@ -362,7 +362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_12
+      name: Nicole_12
       rect:
         serializedVersion: 2
         x: 0
@@ -382,7 +382,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_13
+      name: Nicole_13
       rect:
         serializedVersion: 2
         x: 48
@@ -402,7 +402,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_14
+      name: Nicole_14
       rect:
         serializedVersion: 2
         x: 95
@@ -422,7 +422,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_15
+      name: Nicole_15
       rect:
         serializedVersion: 2
         x: 134
