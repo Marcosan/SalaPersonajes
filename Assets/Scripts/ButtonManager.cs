@@ -14,7 +14,8 @@ public class ButtonManager : MonoBehaviour
     private bool isOpenA = false;
     string nombre = null;
     string descripcion = null;
-    string clave = "1234";
+    string clave = "";
+    string claveCorrecta = "Marco1";
     public Transform Ubicacion;
 
     void Start()
@@ -85,13 +86,13 @@ public class ButtonManager : MonoBehaviour
         nombre = Formulario.transform.GetChild(0).GetComponent<InputField>().text;
         descripcion = Formulario.transform.GetChild(1).GetComponent<InputField>().text;
         clave = Formulario.transform.GetChild(2).GetComponent<InputField>().text;
+        if (clave == claveCorrecta) {
+            GameObject npcGO = Instantiate(Resources.Load("Prefabs/" + SingletonVars.Instance.avatarGlobal, typeof(GameObject)), Ubicacion.position, Quaternion.identity) as GameObject;
 
-        GameObject npcGO = Instantiate(Resources.Load("Prefabs/"+SingletonVars.Instance.avatarGlobal, typeof(GameObject)),Ubicacion.position, Quaternion.identity) as GameObject;
+            npcGO.GetComponent<DialogueTrigger>().AddSentence(nombre, descripcion);
 
-        npcGO.GetComponent<DialogueTrigger>().AddSentence(nombre, descripcion);
-
-        SalirFormulario();
-
+            SalirFormulario();
+        }
 
     }
 
