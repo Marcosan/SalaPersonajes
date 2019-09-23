@@ -130,6 +130,7 @@ public class Player : MonoBehaviour{
                 //tittleMiniMap.text = SingletonVars.Instance.SetNameCurrentMap(initialMap.name);
                 //MainCamera es el script, se llama a la funcion SetBound creada allí, se pasa el mapa inicial
                 Camera.main.GetComponent<MainCamera>().SetBound(initialMap);
+                Debug.Log("dfsdsf");
             }
         }
         

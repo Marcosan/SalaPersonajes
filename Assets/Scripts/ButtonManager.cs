@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class ButtonManager : MonoBehaviour
 {
@@ -10,9 +12,16 @@ public class ButtonManager : MonoBehaviour
     private bool isOpenAgregar = true;
     private bool isOpenF = false;
     private bool isOpenA = false;
+    string nombre = null;
+    string descripcion = null;
+    string clave = "1234";
+    public Transform Ubicacion;
+
     void Start()
     {
+
         
+
     }
 
     public void MostrarFormulario()
@@ -56,8 +65,34 @@ public class ButtonManager : MonoBehaviour
         }
     }
 
+
+
     public void AvatarButton()
     {
+        
+        
+        MostrarAvatares();
+        
+        var go = EventSystem.current.currentSelectedGameObject;
+        if (go != null) {
+            if (go.tag == "ElAvatar") {
+                SingletonVars.Instance.avatarGlobal = go.gameObject.name;
+            }
+        }
+    }
+
+    public void GuardarAvatar() {
+        nombre = Formulario.transform.GetChild(0).GetComponent<InputField>().text;
+        descripcion = Formulario.transform.GetChild(1).GetComponent<InputField>().text;
+        clave = Formulario.transform.GetChild(2).GetComponent<InputField>().text;
+
+        GameObject npcGO = Instantiate(Resources.Load("Prefabs/"+SingletonVars.Instance.avatarGlobal, typeof(GameObject)),Ubicacion.position, Quaternion.identity) as GameObject;
+
+        npcGO.GetComponent<DialogueTrigger>().AddSentence(nombre, descripcion);
+
+        SalirFormulario();
+
 
     }
+
 }

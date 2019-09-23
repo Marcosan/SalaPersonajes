@@ -36,10 +36,7 @@ public class MainCamera : MonoBehaviour{
     }
 
     void LateUpdate(){
-        transform.position = new Vector3(
-            Mathf.Clamp(target.position.x, tLX, bRX),
-            Mathf.Clamp(target.position.y, bRY, tLY),
-            transform.position.z);
+        transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
     }
 
     public void SetBound (GameObject map){
@@ -55,6 +52,10 @@ public class MainCamera : MonoBehaviour{
         bRX = map.transform.position.x + config.m_Width - cameraSize;
         bRY = map.transform.position.y - config.m_Height + cameraSize;
 
+        Debug.Log(cameraSize);
+        Debug.Log(map.transform.position.x);
+        Debug.Log(config.m_Width);
+        Debug.Log(config.m_Height);
         //FastMove();
     }
 

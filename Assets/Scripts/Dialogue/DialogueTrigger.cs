@@ -1,14 +1,17 @@
-﻿using UnityEngine;
+﻿using TMPro;
+using UnityEngine;
 
 public class DialogueTrigger : MonoBehaviour {
     //Clase para llamar a DialogueManager, que ya tiene vinculado el respectivo texto del nombre y oraciones del dialogo
     public Dialogue dialogue;
+    public TextMeshPro nombreIGN;
     Vector2 npcPosition;
     SpriteRenderer interCollider;
 
     private void Start() {
         interCollider = transform.GetChild(0).GetComponent<SpriteRenderer>();
         interCollider.enabled = false;
+        //nombreIGN.text = "asd";
     }
 
     void Update() {
@@ -35,5 +38,11 @@ public class DialogueTrigger : MonoBehaviour {
             interCollider.enabled = false;
             changer.DisableButton();
         }
+    }
+
+    public void AddSentence(string nombre, string dialogo) {
+        dialogue.AddSentence(dialogo);
+        dialogue.AddName(nombre);
+        nombreIGN.text = nombre + "";
     }
 }

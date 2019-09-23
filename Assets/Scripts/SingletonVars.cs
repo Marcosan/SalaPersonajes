@@ -11,7 +11,7 @@ public class SingletonVars : Singleton<SingletonVars>{
 
     public bool isCounting = false;
     public bool isZooming = false;
-
+    public string avatarGlobal = null;
     private float targetOrtho;
     private float smoothSpeed = 2.0f;
     private float minOrtho = 3.0f;

@@ -190,9 +190,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd5a7fc7981f164cbc8cd028ccbdda1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 3
   timeBetweenMove: 5
-  timeToMove: 3
+  timeToMove: 2
   tiempoParaRecargar: 0
 --- !u!1 &8059543305013828182
 GameObject:
