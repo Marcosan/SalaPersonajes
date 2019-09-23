@@ -24,6 +24,7 @@ public class DialogueTrigger : MonoBehaviour {
         if (col.tag == "Action") {
             //print("Boton de accion a " + col.gameObject.name);
             FindObjectOfType<DialogueManager>().StartDialogue(dialogue, npcPosition);
+            Debug.Log("Aqui si funciona");
             SoundManager.SetClip("I");
         }
 

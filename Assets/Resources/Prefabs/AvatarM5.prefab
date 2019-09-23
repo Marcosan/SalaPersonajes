@@ -360,7 +360,7 @@ SpriteRenderer:
   m_SortingLayerID: 1366375491
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300002, guid: bfc8de82d97a35940837fc7dc3b08e91, type: 3}
+  m_Sprite: {fileID: 21300002, guid: 846618f504be9844199a4976f22e402a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -383,7 +383,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e77a2527ede9434590694091793f252, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: Chico02
+  spriteSheetName: Chico06
 --- !u!95 &5261137158636983937
 Animator:
   serializedVersion: 3
@@ -441,7 +441,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.96666664, y: 1.5333333}
+    oldSize: {x: 1.1071428, y: 1.6071428}
     newSize: {x: 2, y: 2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

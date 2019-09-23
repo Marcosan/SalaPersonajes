@@ -86,12 +86,21 @@ public class ButtonManager : MonoBehaviour
         nombre = Formulario.transform.GetChild(0).GetComponent<InputField>().text;
         descripcion = Formulario.transform.GetChild(1).GetComponent<InputField>().text;
         clave = Formulario.transform.GetChild(2).GetComponent<InputField>().text;
-        if (clave == claveCorrecta) {
+        if (clave == claveCorrecta)
+        {
             GameObject npcGO = Instantiate(Resources.Load("Prefabs/" + SingletonVars.Instance.avatarGlobal, typeof(GameObject)), Ubicacion.position, Quaternion.identity) as GameObject;
 
             npcGO.GetComponent<DialogueTrigger>().AddSentence(nombre, descripcion);
-
+            
             SalirFormulario();
+            Formulario.transform.GetChild(0).GetComponent<InputField>().text = "";
+            Formulario.transform.GetChild(1).GetComponent<InputField>().text = "";
+            Formulario.transform.GetChild(2).GetComponent<InputField>().text = "";
+        }
+        else {
+            Formulario.transform.GetChild(0).GetComponent<InputField>().text = "";
+            Formulario.transform.GetChild(1).GetComponent<InputField>().text = "";
+            Formulario.transform.GetChild(2).GetComponent<InputField>().text = "";
         }
 
     }
