@@ -89,7 +89,6 @@ public class ButtonManager : MonoBehaviour
         if (clave == claveCorrecta)
         {
             GameObject npcGO = Instantiate(Resources.Load("Prefabs/" + SingletonVars.Instance.avatarGlobal, typeof(GameObject)), Ubicacion.position, Quaternion.identity) as GameObject;
-
             npcGO.GetComponent<DialogueTrigger>().AddSentence(nombre, descripcion);
             
             SalirFormulario();
